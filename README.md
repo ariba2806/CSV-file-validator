@@ -73,7 +73,3 @@ Error messages:
 
 * Any pull request for new features and bug fixes is appreciated.
 * Just make sure to add test.
-
-# LICENSE
-
-MIT
